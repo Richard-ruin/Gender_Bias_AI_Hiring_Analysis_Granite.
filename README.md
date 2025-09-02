@@ -246,24 +246,12 @@ The AI analysis was **cross-validated** with traditional statistical methods:
 ## Technical Requirements
 
 - **Platform**: Google Colab Notebook
-- **Programming Language**: Python 3.x
+- **Programming Language**: Python 3
 - **Key Libraries**: pandas, numpy, scipy, matplotlib, seaborn, plotly, replicate
 - **AI Integration**: IBM Granite Models via Replicate API
 - **Statistical Methods**: T-tests, Chi-square, Effect size analysis, Regression modeling
 
-## Repository Structure
 
-```
-📁 gender-bias-ai-hiring/
-├── 📓 Gender_Bias_Analysis_Granite.ipynb
-├── 📊 Glassdoor_Gender_Pay_Gap.csv  
-├── 📋 README.md
-├── 🎯 presentation_slides.pdf
-└── 📈 visualizations/
-    ├── bias_scorecard.png
-    ├── implementation_timeline.png
-    └── executive_dashboard.png
-```
 
 ## Contact & Collaboration
 
